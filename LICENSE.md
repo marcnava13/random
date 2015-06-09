@@ -1,0 +1,1 @@
+Copyright (c) 2015 Marcos Navarro. Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software "RANDOM" y archivos de documentación asociados, para tratar el código sin restricciones, incluyendo, sin limitación, los derechos para usar, copiar, modificar, fusionar , publicar, distribuir, sublicenciar y / o vender copias del código.
